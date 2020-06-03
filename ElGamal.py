@@ -314,14 +314,6 @@ if (flag1 == 2):
 f.close()
 
 
-#print(polig_hellman(28, 2, 37))
-#print(factor(36))
-#print(pollard(64, 2, 101))
-#make_s(16)
-#print(babystepgiantstep(342, 17, 2719))
-#print(pow(17, 772, 2719))
-
-
 
 
 
